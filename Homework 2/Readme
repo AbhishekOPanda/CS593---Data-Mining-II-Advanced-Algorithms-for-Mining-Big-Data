@@ -1,0 +1,9 @@
+Using the “Lung” dataset, perform the following analysis:
+Summary statistics
+Variance and covariance Matrix
+QQ plot 
+  Features:  
+  Age_father 
+  Height_father 
+  Weight_father 
+  FVC_father
