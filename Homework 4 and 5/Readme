@@ -1,0 +1,21 @@
+1-Open the baseball_100 data set. The dataset contains statistics for batters who have at least 100 at bats. We are interested in investigating whether there is a
+linear relationship between the number of times a player has been caught stealing bases and the number of stolen bases the player has.
+1. Construct a scatter plot with ‘caught’ as the response. Is there evidence of a linear relationship? 
+2. Based on the scatter plot, is a transformation to linearity called for? Why or why not?
+3. Do not perform any transformation. Perform the regression of the number of times a player has been caught stealing bases versus the number of stolen bases the
+player has.
+4. Analyze the results. How good is the model? Why?
+5. What is the confidence interval for predicting the number of times a player is caught stealing bases given his number of stolen bases? 
+6. What is the confidence interval for predicting the average number of times a player is caught stealing given his number of stolen bases? 
+7. What are the top 5 influential points?
+8. What are the top 5 high leverage points?
+
+2-Use the “cereal_ds” dataset and the following predictors to build the models listed below. For each part, fit your final model and show the results. 
+Predictors: 'sugars’, 'fat', 'fiber', 'weight', 'vitamins', 'cups' 
+ Models:
+a) Build the best simple regression model you can for the purposes of predicting ‘rating’ using only one of the predictors. Why did you choose this model?
+b) Build the best regression model you can by adding another (only one) predictor to the above (part a) model. Why did you choose this model?
+c) Build the best regression model you can for the purposes of predicting rating by using all the predictors. Don’t worry about whether or not the predictor
+coefficients are significant.
+d) Build the best regression model you can by eliminating one of the predictors from the above model. Why did you choose this model?
+e) Build the best regression model you can using the predictors and the ‘shelf’ variable. Is ‘shelf’ a good predictor of ‘rating’? Interpret the results.
