@@ -1,0 +1,2 @@
+Using the depression dataset, perform logistic regression, use age, sex, log(income), bed days and health as possible variables to predict depression.
+A person is considered depressed when Cat_total>=16;
