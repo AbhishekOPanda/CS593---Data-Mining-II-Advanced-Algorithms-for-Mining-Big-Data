@@ -1,1 +1,3 @@
-For the following exercises, work with the baseball_100 dataset. Batters with fewer than 100 at bats have been excluded from this dataset. Suppose that we are interested in estimating the number of home runs based on the other numerical variables in the dataset. So all the other numeric variables will be our predictors. Standardize all the numerical variables using z-scores. Perform PCA.
+For the following exercises, work with the baseball_100 dataset. Batters with fewer than 100 at bats have been excluded from this dataset. Suppose that we are
+interested in estimating the number of home runs based on the other numerical variables in the dataset. So all the other numeric variables will be our predictors.
+Standardize all the numerical variables using z-scores. Perform PCA.
